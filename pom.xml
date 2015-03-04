@@ -40,5 +40,15 @@
   		<artifactId>spring-tx</artifactId>
   		<version>4.1.0.RELEASE</version>
   	</dependency>
+  	<dependency>
+  		<groupId>org.codehaus.jackson</groupId>
+  		<artifactId>jackson-asl</artifactId>
+  		<version>0.9.5</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>org.codehaus.jackson</groupId>
+  		<artifactId>jackson-mapper-asl</artifactId>
+  		<version>1.9.13</version>
+  	</dependency>
   </dependencies>
 </project>
