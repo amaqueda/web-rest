@@ -8,5 +8,6 @@
 </head>
 <body>
 hola
+<a href="http://localhost:8080/web-rest/rest/getUserName">usuarioName</a>
 </body>
 </html>
